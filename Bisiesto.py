@@ -9,5 +9,4 @@ if tiempo_anual == año :
     print("Es bisiesto")
 else:
     print("No es bisiesto")
-#if int(dias_year / 4) and dias_year / 100:
-    #print("")
+#Nota: si modifico este archivo.
